@@ -1,4 +1,7 @@
+### bash scripts
 activate.sh
+build.sh
+run.sh
 
 ### Cpp
 # Prerequisites
