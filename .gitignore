@@ -36,3 +36,7 @@ activate.sh
 
 ### Python
 *__pycache__/
+
+### Json
+cache/
+data/*.json
